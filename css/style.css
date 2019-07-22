@@ -1389,3 +1389,26 @@ input[type="text"] {
 .logo{
     font-size: 100px;
 }
+.about-4{
+    max-width: 45%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: -20%;
+    margin-top: 4%;
+
+} 
+.about-5{
+    position: absolute;
+    max-width:180%;
+    margin:25%;
+    margin-top:-10%;
+  
+}
+.about-6{
+     position: absolute;
+     max-width:50%;
+     left: 55%;
+    right: 0;
+    margin-top:-2%;
+}
